@@ -10,6 +10,7 @@ import { Hero } from "./Hero";
 import { GetStarted } from "./GetStarted.jsx";
 import { Billing } from "./Billing";
 import { Testimonials } from "./Testimonials";
+import { Clients } from "./Clients";
 
 export {
   Navbar,
@@ -24,4 +25,5 @@ export {
   GetStarted,
   Billing,
   Testimonials,
+  Clients,
 };

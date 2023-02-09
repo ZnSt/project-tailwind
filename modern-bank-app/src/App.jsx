@@ -4,15 +4,13 @@ import {
   Navbar,
   CTA,
   Business,
-  Button,
   CardDeal,
-  FeedbackCard,
   Footer,
   Stats,
   Hero,
-  GetStarted,
   Billing,
   Testimonials,
+  Clients,
 } from "./components";
 
 export const App = () => {
@@ -37,6 +35,7 @@ export const App = () => {
           <Billing />
           <CardDeal />
           <Testimonials />
+          <Clients/>
           <CTA />
           <Footer />
         </div>
